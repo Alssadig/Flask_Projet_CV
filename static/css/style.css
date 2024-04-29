@@ -4,8 +4,16 @@ body {
     padding: 0px;
 }
 
-.homepage, .bg_image{
+.homepage, .bg_image}
     background-image: url("../img/img_home.jpg");
+}
+
+img{
+    max-width: 80px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    
 }
 
 header{
